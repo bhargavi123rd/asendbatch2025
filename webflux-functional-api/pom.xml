@@ -56,6 +56,14 @@
 			<artifactId>reactor-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+<<<<<<< HEAD
+=======
+		<dependency>
+			<groupId>com.example</groupId>
+			<artifactId>webflux-functional-api</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+>>>>>>> 843576b0695238467edeaf936b86317964264766
 	</dependencies>
 
 	<build>
